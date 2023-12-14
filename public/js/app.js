@@ -13,4 +13,5 @@ fetch(`http://localhost:3000/weather?location=vancouver`).then((response) => {
 
 
 console.log('the JavaScript file has been loaded')
+console.log(`Java script file is running`)
 
